@@ -11,12 +11,17 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nqk0605&show_icons=true&locale=en&layout=compact" alt="nqk0605" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nqk0605&show_icons=true&locale=en" alt="nqk0605" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nqk0605&" alt="nqk0605" /></p>
+![](https://github-readme-stats.vercel.app/api?username=nqk0605&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nqk0605&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nqk0605&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆GitHub Trophies
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nqk0605&label=Profile%20views&color=0e75b6&style=flat" alt="nqk0605" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nqk0605" alt="nqk0605" /></a> </p>
+![](https://github-trophies.vercel.app/?username=nqk0605&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nqk0605" alt="nqk0605" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nqk0605&label=Profile%20views&color=0e75b6&style=flat" alt="nqk0605" /> </p>
+[![](https://visitcount.itsvg.in/api?id=nqk0605&icon=0&color=0)](https://visitcount.itsvg.in)
