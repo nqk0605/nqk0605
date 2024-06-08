@@ -1,4 +1,5 @@
 ## 🌐Connect With Me
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/quockhang0605/)
 <p align="left">
 <a href="https://linkedin.com/in/quockhang0605" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="quockhang0605" height="30" width="40" /></a>
 <a href="https://fb.com/khang065l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khang065l" height="30" width="40" /></a>
